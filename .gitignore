@@ -1,0 +1,17 @@
+# Build artifacts
+*.o
+mygit
+mygit.exe
+
+# Debug and profiling files
+*.gch
+*.d
+*.gcda
+*.gcno
+*.gcov
+
+
+.vscode/
+.idea/
+*.swp
+*.swo
